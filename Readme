@@ -1,8 +1,2 @@
-next
-nest
-typeorm
-graphql
-emotion
-postgresql
-docker-compose
-nginx
+Fast Next and Nest Boilerplate
+nextjs, nestjs, typeorm, graphql, emotion, postgresql, docker-compose, nginx
